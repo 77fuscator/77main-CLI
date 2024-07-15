@@ -1,0 +1,5 @@
+
+local Stk = SUPER_SECRET_GLOBAL_FOR_STACK
+
+local Inst = SUPER_SECRET_GLOBAL_FOR_INSTRUCTIONS
+Stk[Inst[OP_A]]=Stk[Inst[OP_B]][Stk[Inst[OP_C]]];

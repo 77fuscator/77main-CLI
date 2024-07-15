@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lua-format": "^1.4.1"
+  }
+}
